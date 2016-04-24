@@ -8,14 +8,14 @@ These notes describe techniques used to design and implement Energy Efficient Co
 These techniques form the underlying basis for constructing highly energy efficient systems. The evolution of these technqiues has been shaped by the Performance and Power requiremetns for Mobile Smartphone Platforms. However, as energy efficiency starts to become a dominant cost determiner for data-center class platforms, we will continue ot see these technqiues take the next leap for that realm.
 
 
-#Introduction
+# Introduction
 - Power and Energy
 - Hardware and Software views of a Processor
 - Energy Consumption in VLSI Curcuits
 
-#Energy Efficiency at the Pocessor Level
+# Energy Efficiency at the Pocessor Level
 
-##Energy Efficiency when the Processor is Idle
+## Energy Efficiency when the Processor is Idle
 - Hardware Techniques
  - Halting the Pocessor
  - Freezing the Processor
@@ -26,7 +26,7 @@ These techniques form the underlying basis for constructing highly energy effici
   - Selecting a low-power mode
   - Transitioning to a low-power mode
 
-##Energy Efficiency when the Processor is Active
+## Energy Efficiency when the Processor is Active
 - Processor Utilization
 - How do you calculate Power Consumtion?
 - Dynamic Voltage and Frequency Scaling
@@ -34,9 +34,9 @@ These techniques form the underlying basis for constructing highly energy effici
  - Continous Static Voltage Scaling
   - Silicon, Temperature and Aging
 
-#Energy Efficiency at the SoC Level
+# Energy Efficiency at the SoC Level
 - Coordinating Low-Power Modes across Processors in a SoC
 - Achiving Low-Power Modes for shared System Resources like System Buses, Clocks and Power Supplies
 
-#Energy Efficiency for Multi-processors
+# Energy Efficiency for Multi-processors
 - Performance and Energy Aware Thread Scheduling
