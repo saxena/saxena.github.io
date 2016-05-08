@@ -42,4 +42,4 @@ These techniques form the underlying basis for constructing highly energy effici
 ## Energy Efficiency for Multi-processors
 - Performance and Energy Aware Thread Scheduling
 
-[Introduction]: /chapter_introduction/
+[Introduction]: /chapter_introduction
