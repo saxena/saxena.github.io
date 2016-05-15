@@ -10,7 +10,7 @@ These notes describe techniques used to design and implement Energy Efficient Co
 These techniques form the underlying basis for constructing highly energy efficient systems. The evolution of these technqiues has been shaped by the Performance and Power requiremetns for Mobile Smartphone Platforms. However, as energy efficiency starts to become a dominant cost determiner for data-center class platforms, we will continue ot see these technqiues take the next leap for that realm.
 
 ## [Introduction]
-- Performance, Energy and Power in Computer Systems
+- Performance, In Context
 - Hardware and Software views of a Processor
 - Energy Consumption in Digital VLSI Curcuits
 
