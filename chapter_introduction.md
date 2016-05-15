@@ -3,7 +3,7 @@ layout: default
 title: Introduction
 ---
 
-## Performance Energy and Power
+## The Context of Performance
 
 Digital circuits are driven by clocks that drive the transition of states. At a fundamental level the performance of such circuits is a function of the clock speed measured in MHz. However, the complexity of even the most elementary data processing, transfer and storage systems leads to scenarios where the value in MHz of the digital clock does not correlate sufficiently to the functional speed of these systems. For example, performance for a CPU might be defined in-terms of a functional metric like Million Instructions per Second (MIPS). The performance of a data transfer interconnect or a memory storage block is often defined in-terms of MB per Second (MB/sec).
 
