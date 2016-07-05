@@ -17,10 +17,14 @@
 			
 			</div><!-- /.container -->
 			<footer>
+			{% capture my_footer %}{% include footer.md %}{% endcapture %}
+			{{ my_footer | markdownify }}
+			<!--
 	    		<ul>
 	        		<li><a href="mailto:rahul.k.saxena@gmail.com">email: rahul.k.saxena@gmail.com</a></li>
 	        		<li><a href="https://github.com/saxena">github.com/saxena</a></li>
-				</ul>
+			</ul>
+			-->
 			</footer>
 		</body>
 	</html>
