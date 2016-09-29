@@ -3,9 +3,17 @@ layout: default
 title: Power Management Techniques for Energy Efficient Systems
 ---
 
-These notes describe techniques used to design and implement Energy Efficient Computer Systems. Energy Efficient design requires coordinated use of design technqiues at all levels of the Software and Hardware and SoC stack.
+These notes describe techniques used to design and implement Energy
+Efficient Computer Systems. Energy Efficient design requires
+coordinated use of design technqiues at all levels of the Software and
+Hardware and SoC stack.
 
-These techniques form the underlying basis for constructing highly energy efficient systems. The evolution of these technqiues has been shaped by the Performance and Power requiremetns for Mobile Smartphone Platforms. However, as energy efficiency starts to become a dominant cost determiner for data-center class platforms, we will continue ot see these technqiues take the next leap for that realm.
+These techniques form the underlying basis for constructing highly
+energy efficient systems. The evolution of these technqiues has been
+shaped by the Performance and Power requiremetns for Mobile Smartphone
+Platforms. However, as energy efficiency starts to become a dominant
+cost determiner for data-center class platforms, we will continue ot
+see these technqiues take the next leap for that realm.
 
 
 # Introduction
@@ -36,7 +44,8 @@ These techniques form the underlying basis for constructing highly energy effici
 
 # Energy Efficiency at the SoC Level
 - Coordinating Low-Power Modes across Processors in a SoC
-- Achiving Low-Power Modes for shared System Resources like System Buses, Clocks and Power Supplies
+- Achiving Low-Power Modes for shared System Resources like System
+  Buses, Clocks and Power Supplies
 
 # Energy Efficiency for Multi-processors
 - Performance and Energy Aware Thread Scheduling
