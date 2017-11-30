@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Power Management Techniques for Energy Efficient Systems
+title: Power Management Techniques for Energy Efficient Computer Systems
 ---
 
 These notes describe techniques used to design and implement Energy
@@ -15,15 +15,14 @@ Platforms. However, as energy efficiency starts to become a dominant
 cost determiner for data-center class platforms, we will continue ot
 see these technqiues take the next leap for that realm.
 
-
-# Introduction
-- Power and Energy
+## [Introduction]
+- Performance, In Context
 - Hardware and Software views of a Processor
-- Energy Consumption in VLSI Curcuits
+- Energy Consumption in Digital VLSI Curcuits
 
-# Energy Efficiency at the Pocessor Level
+## Energy Efficiency at the Pocessor Level
 
-## Energy Efficiency when the Processor is Idle
+### Energy Efficiency when the Processor is Idle
 - Hardware Techniques
  - Halting the Processor
  - Freezing the Processor
@@ -34,7 +33,7 @@ see these technqiues take the next leap for that realm.
   - Selecting a low-power mode
   - Transitioning to a low-power mode
 
-## Energy Efficiency when the Processor is Active
+### Energy Efficiency when the Processor is Active
 - Processor Utilization
 - How do you calculate Power Consumtion?
 - Dynamic Voltage and Frequency Scaling
@@ -42,10 +41,12 @@ see these technqiues take the next leap for that realm.
  - Continous Static Voltage Scaling
   - Silicon, Temperature and Aging
 
-# Energy Efficiency at the SoC Level
+## Energy Efficiency at the SoC Level
 - Coordinating Low-Power Modes across Processors in a SoC
 - Achieving Low-Power Modes for shared System Resources like System
   Buses, Clocks and Power Supplies
 
-# Energy Efficiency for Multi-processors
+## Energy Efficiency for Multi-processors
 - Performance and Energy Aware Thread Scheduling
+
+[Introduction]: /chapter_introduction
