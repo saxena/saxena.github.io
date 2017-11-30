@@ -23,7 +23,7 @@ see these technqiues take the next leap for that realm.
 ## Energy Efficiency at the Pocessor Level
 
 ### Energy Efficiency when the Processor is Idle
-- Hardware Techniques
+- [Hardware Techniques]
  - Halting the Processor
  - Freezing the Processor
  - Powering of the Processor
@@ -50,3 +50,4 @@ see these technqiues take the next leap for that realm.
 - Performance and Energy Aware Thread Scheduling
 
 [Introduction]: /chapter_introduction
+[Hardware Techniques]: /hw_proc_idle
