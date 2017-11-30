@@ -25,7 +25,7 @@ see these technqiues take the next leap for that realm.
 
 ## Energy Efficiency when the Processor is Idle
 - Hardware Techniques
- - Halting the Pocessor
+ - Halting the Processor
  - Freezing the Processor
  - Powering of the Processor
  - Powering Off Clocks and underlying PLLs
@@ -44,7 +44,7 @@ see these technqiues take the next leap for that realm.
 
 # Energy Efficiency at the SoC Level
 - Coordinating Low-Power Modes across Processors in a SoC
-- Achiving Low-Power Modes for shared System Resources like System
+- Achieving Low-Power Modes for shared System Resources like System
   Buses, Clocks and Power Supplies
 
 # Energy Efficiency for Multi-processors
