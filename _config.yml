@@ -1,1 +1,25 @@
-name: Rahul Saxena
+# Dependencies
+markdown:         redcarpet
+#highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+
+# Setup
+title:            Rahul Saxena
+tagline:          'A Page'
+description:      'A Page Description.'
+url:              https://saxena.github.io
+baseurl:          "/"
+
+author:
+  name:           'Rahul Saxena'
+  url:            https://twitter.com/rksio
+
+paginate:         5
+
+# Custom vars
+#version:          2.1.0
+#github:
+#  repo:           https://github.com/poole/hyde

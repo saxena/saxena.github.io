@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hardware Techniques
+---
+
 # Hardware Techniques
 
 ## Halting the Processor Clock
