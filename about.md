@@ -12,8 +12,3 @@ is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an
 upstanding and effective butler that helps you build Jekyll themes.
 
 * [Hyde](http://hyde.getpoole.com)
-
-```
-site.url: {{ site.url }}
-site.baseurl: {{ site.baseurl }}
-```
