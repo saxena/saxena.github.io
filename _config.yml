@@ -4,14 +4,15 @@ markdown:         redcarpet
 
 # Permalinks
 permalink:        pretty
+#relative_permalinks: true
 
 
 # Setup
 title:            Rahul Saxena
 tagline:          'A Page'
 description:      'A Page Description.'
-url:              https://saxena.github.io
-baseurl:          ""
+url:              https://saxena.github.io/
+baseurl:          "/"
 
 author:
   name:           'Rahul Saxena'
