@@ -11,7 +11,7 @@ permalink:        pretty
 title:            Rahul Saxena
 tagline:          'A Page'
 description:      'A Page Description.'
-url:              https://saxena.github.io/
+url:              https://saxena.github.io
 baseurl:          "/"
 
 author:
