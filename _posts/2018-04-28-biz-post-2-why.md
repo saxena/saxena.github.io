@@ -2,7 +2,6 @@
 layout: post
 title: Biz Post 2: Why do you want your own business?
 ---
-​
 
 The primary reason for this writing is that there is plenty of writing
 that talks about the **hows** of business. What interests me and what
@@ -12,9 +11,11 @@ I think is often overlooked are the **whys**.
 These are aspects that I continually consider, while evaluating the
 options available to me and I wanted to put them down in writing.
 
+
 My goal is to examine the reasons why one might want to be a business
 owner. My wish is that it helps the reader reflect on their own
 reasons.
+
 
 I think that's it is best to think about and resolve the points
 mentioned here before you start taking action towards building a
@@ -31,6 +32,7 @@ business:
 that you are not able to perform at your full potential in a salaried
 job. Things outside of your control are limiting you in achieving your
 dreams.
+
 
 On the face of it, this looks like an excellent reason, however keep
 in mind, that when you own your own business, your customers will be
@@ -51,10 +53,12 @@ reason to start your own business. Salaried jobs are unlikely to
 result in such high returns. Running your own business certainly opens
 the doors that allow for this result.
 
+
 However, it's possible that the opportunities and trade-offs in your
 business that open the door to grow 100 times, might come with
 requirements that might conflict with your other desires from your
 work.
+
 
 This is okay, just be aware of what you are trading off. Sometimes,
 it's possible to overlook cometing trade-offs for a short duration. In
@@ -71,7 +75,7 @@ consumed with minimal time effort on your part. You will also be
 required to find a business that satisfies these qualities while
 providing sufficient returns for your effort.
 
-d.**You want to be in control:** This is a very common reason for
+4.**You want to be in control:** This is a very common reason for
 people wanting to start their own business. However, if you reflect on
 it, you will start to see similarities between this reason and the
 first reason, "you want to be your own boss". It is quite possible
@@ -80,9 +84,11 @@ run. Ultimately, your customers, your employees will play a part in
 the success of your business, in doing so, they will take away control
 from you.
 
+
 At it's core, running a businesses involve making trade-offs about
 which aspects you want to be in control and which ones you want others
 to control.
+
 
 In fact this is true for both enterpreneurs as well as employees. It
 is up to you to decide how control should given and responsibilty
@@ -92,5 +98,5 @@ might be hard to imagine today.
 
 
 **Keep in mind that:**
-a. What's important is that you think about note of this list.
-b. It's okay to change your mind.
+1. What's important is that you think about note of this list.
+2. It's okay to change your mind.
