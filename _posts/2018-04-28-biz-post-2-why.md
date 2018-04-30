@@ -3,9 +3,9 @@ layout: post
 title: Why do you want your own business?
 ---
 
-The primary reason for this writing is that there is plenty of writing
-that talks about the **hows** of business. What interests me and what
-I think is often overlooked are the **whys**.
+There is plenty of writing that talks about the **hows** of
+business. What interests me and what I think is often overlooked are
+the **whys**.
 
 
 These are aspects that I continually consider, while evaluating the
