@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biz Post 2: Why do you want your own business?
+title: Why do you want your own business?
 ---
 
 The primary reason for this writing is that there is plenty of writing
