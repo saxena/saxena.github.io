@@ -8,8 +8,8 @@ business. What interests me and what I think is often overlooked are
 the **whys**.
 
 
-These are aspects that I continually consider, while evaluating the
-options available to me and I wanted to put them down in writing.
+I spend a lot of time thinking about the whys and continually consider
+them, while making decision. Here, I want to put them down in writing.
 
 
 My goal is to examine the reasons why one might want to be a business
